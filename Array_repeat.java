@@ -29,4 +29,3 @@ System.out.println("Ater eliminating:"+arr2[k]);
 }
 }
 }
-

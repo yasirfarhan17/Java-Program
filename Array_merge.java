@@ -51,4 +51,3 @@ class Array_merge
     }
   }
 }
-

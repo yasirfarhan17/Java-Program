@@ -13,8 +13,4 @@ System.out.print(add[i][j]+" ");
 System.out.println();
 }
 }
-}
-
-							
-
-							
+}						
